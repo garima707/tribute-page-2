@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+header{
+  top: 0px;
+  display: flex;
+  position: fixed;
+  }
+Features{
+  padding : 5px;
+}
+@Media (max-width: 500px){
+  body{
+    background-color: blue;
+  }
+}
+form input[type="submit"]{
+  background-color: #fcc;
+  font-family: inherit;
+  text-transform: uppercase;
+  width:30%;}
+
+body{
+  
+  margin: auto;
+   
+  
+}
